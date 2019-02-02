@@ -7,3 +7,6 @@ may lose your files
 
 > We are crossing commits from branches master and German_Text.
 Either branch is commited one by one
+
+> When we apply rebase command, all German_Text branch will be placed at the
+top of master branch
