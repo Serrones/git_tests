@@ -10,3 +10,5 @@ Either branch is commited one by one
 
 > When we apply rebase command, all German_Text branch will be placed at the
 top of master branch
+
+`It's Squash time`
