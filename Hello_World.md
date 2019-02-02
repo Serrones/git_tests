@@ -5,4 +5,5 @@ may lose your files
 
 `Now let's use Rebase`
 
-> We are crossing commits from branches master and German_Text
+> We are crossing commits from branches master and German_Text.
+Either branch is commited one by one
