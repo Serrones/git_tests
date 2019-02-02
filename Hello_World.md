@@ -12,3 +12,6 @@ Either branch is commited one by one
 top of master branch
 
 `It's Squash time`
+
+> Squashing commits can make the log more readable and understandable,
+both for ourselves and others
