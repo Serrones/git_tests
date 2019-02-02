@@ -14,3 +14,6 @@ top of master branch
 `It's Squash time`
 
 > Squashing commits can make the log more readable and understandable
+
+> When we apply rebase -i HEAD~<n>, we can choose how many commits we are
+going to mix, or something else
